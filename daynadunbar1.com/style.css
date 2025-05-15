@@ -76,8 +76,8 @@
 #scrollUp i {
   color: #fff;
 }
- #scrollUp {
-  background: #303f9f none repeat scroll 0 0;
+#scrollUp {
+    background: #0e9492 none repeat scroll 0 0;
 }
  
 
@@ -128,10 +128,10 @@
     font-family: "droid_serifbold_italic";
     font-size: 24px;
 }
-.htc__spt__dai p a {
-    color: #303f9f;
-    padding-left: 6px;
-}
+    .htc__spt__dai p a {
+        color: #0e9492;
+        padding-left: 6px;
+    }
 .htc__spt__dai {
     margin-top: 30px;
 }
@@ -230,15 +230,15 @@
     width: 100%;
     z-index: 2;
 }
-.gallery__hover::before {
-    background: #303f9f none repeat scroll 0 0;
-    content: "";
-    height: 100%;
-    opacity: 0.9;
-    position: absolute;
-    width: 100%;
-    z-index: 1;
-}
+    .gallery__hover::before {
+        background: rgb(184, 142, 35) none repeat scroll 0 0;
+        content: "";
+        height: 100%;
+        opacity: 0.9;
+        position: absolute;
+        width: 100%;
+        z-index: 1;
+    }
 .gallery__hover__info {
     bottom: 46px;
     left: 54px;
@@ -360,11 +360,11 @@
     font-size: 14px;
     transition: 0.4s;
 }
-.activation__time--1.owl-theme .owl-nav [class*="owl-"]:hover {
-    background: #303f9f none repeat scroll 0 0;
-    border: 1px solid #303f9f;
-    color: #fff;
-}
+    .activation__time--1.owl-theme .owl-nav [class*="owl-"]:hover {
+        background: rgb(184, 142, 35) none repeat scroll 0 0;
+        border: 1px solid rgb(184, 142, 35);
+        color: #fff;
+    }
 
 .activation__time--1.owl-theme .owl-nav {
     margin-top: 0;
@@ -901,7 +901,7 @@
     text-align: center;
 }
 .htc__subscribe__inner h2 {
-    color: #303f9f;
+    color: #0e9492;
     font-size: 30px;
     line-height: 24px;
     text-transform: capitalize;
@@ -1090,7 +1090,7 @@
     transition: all 0.4s ease 0s;
 }
 .breadcrumb-item.active {
-    color: #303f9f;
+    color: #0e9492;
     font-family: "droid_serifregular";
     font-size: 18px;
 }
@@ -2017,8 +2017,8 @@ h2.psy__blog__title {
     margin-top: 23px;
 }
 .address:hover .address__icon i {
-    background: #303f9f none repeat scroll 0 0;
-    border: 1px solid #303f9f;
+    background: #0e9492 none repeat scroll 0 0;
+    border: 1px solid #0e9492;
     color: #fff;
 }
 .contact__addres__wrapper {
@@ -2090,9 +2090,9 @@ h2.psy__blog__title {
 .contact-btn .htc__btn {
     text-transform: uppercase;
 }
-.ct__title{
+.ct__title {
     text-align: center;
-    color: #303f9f;
+    color: #0e9492;
     font-size: 24px;
     margin-bottom: 64px;
 }
@@ -2187,7 +2187,7 @@ h2.psy__blog__title {
     min-width: 370px;
 }
 .psy__ser__inner h2 {
-    color: #303f9f;
+    color: #0e9492;
     font-size: 30px;
     line-height: 22px;
     margin-bottom: 29px;

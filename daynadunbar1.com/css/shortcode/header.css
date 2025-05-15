@@ -74,20 +74,20 @@
   Button style
 --------------------------------*/
 .htc__btn {
-  background: #303f9f none repeat scroll 0 0;
-  border-radius: 5px;
-  color: #ffffff;
-  display: inline-block;
-  font-family: "Source Sans Pro",sans-serif;
-  font-size: 16px;
-  height: 50px;
-  letter-spacing: 2px;
-  line-height: 50px;
-  outline: medium none;
-  padding: 0 30px;
-  position: relative;
-  transition: all 0.4s ease 0s;
-  z-index: 2;
+    background: #0e9492 none repeat scroll 0 0;
+    border-radius: 5px;
+    color: #ffffff;
+    display: inline-block;
+    font-family: "Source Sans Pro",sans-serif;
+    font-size: 16px;
+    height: 50px;
+    letter-spacing: 2px;
+    line-height: 50px;
+    outline: medium none;
+    padding: 0 30px;
+    position: relative;
+    transition: all 0.4s ease 0s;
+    z-index: 2;
 }
 .htc__btn::after {
   border-radius: 5px;

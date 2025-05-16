@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Testimonials.html" />
     <Content Include="about-me.html" />
     <Content Include="bin\daynadunbar1.com.dll" />
     <Content Include="bin\daynadunbar1.com.pdb" />

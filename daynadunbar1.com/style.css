@@ -91,7 +91,7 @@
 ----------------------------------------*/
 
 .htc__support__area {
-    padding-top: 90px;
+    padding-top: 10px;
 }
 .htc__support__inner h4 {
     font-family: "droid_serifregular";
@@ -133,7 +133,7 @@
         padding-left: 6px;
     }
 .htc__spt__dai {
-    margin-top: 30px;
+    margin-top: 5px;
 }
 .htc__support__details p + p {
     margin-top: 21px;
